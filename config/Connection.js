@@ -21,7 +21,7 @@ require('dotenv').config()
 
 const Connection = new Sequelize({
     dialect: 'postgres',
-    host: 'dpg-dpg-cs6pffo8fa8c73907tlg-a',
+    host: 'dpg-cs6pffo8fa8c73907tlg-a',
     port:  '5432',
     username: 'fs29_gurgel_user',
     password: 'o3huZ9ATkwZNodKGKF2iAXWjbFXRQi0i',
